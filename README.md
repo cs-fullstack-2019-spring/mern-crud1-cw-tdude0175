@@ -2,6 +2,7 @@
 
 Create a full REST stack for the following model:
 - todo unique ID
+- todo task
 - due date
 - if the task is done
 
