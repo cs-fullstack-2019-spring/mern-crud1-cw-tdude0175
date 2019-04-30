@@ -14,3 +14,5 @@ Include a link to delete each product beside each entry.
 
 - To delete use method: 'DELETE' in your fetch.
 - To update a parent component don't forget to push state up.
+<hr>
+2 points.
